@@ -1746,7 +1746,7 @@ font-family: 'Indie Flower', cursive;
 }
 
 #card-front {
-  background-color: #ee9ca7;
+  background-color: #5b86ec;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#FF5555), to(#FF7777));
   background-image: linear-gradient(top, #FF5555 0%, #FF7777 100%);
   -webkit-transform-origin: left;
@@ -1800,7 +1800,7 @@ font-family: 'Indie Flower', cursive;
 
 #card-front button:hover,
 #card-front button:focus {
-  background: #F22;
+  background: rgb(34, 211, 255);
 }
 
 #close {
